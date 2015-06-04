@@ -11,7 +11,7 @@ A Debugging utility with the following features:
   - Include the class in your project. 
   - Use it like you use android.util.Log methods, to start with.
   - Use the Entry-Exit logs feature by placing calls to entry_log()-exit_log() methods at the beginning and ending of methods in your app. 
-  - I have tried to make the documentation self suffiecient.
+  - I have tried to make the documentation self sufficient.
   
 Suggestions to improve this Utility are welcome.
 
